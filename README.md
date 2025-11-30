@@ -22,7 +22,7 @@ As I progress, I will be adding more projects related to data analysis, machine 
 To master Python basics and then transition to more advanced topics like NumPy, Pandas, and Machine Learning.
 
 ## Files:
-- **python_basics_summary.py**: A summary of Python basics with practical examples.
+- **python_summary.py**: A summary of Python basics with practical examples.
 - **README.md**: An overview of my Python learning journey and progress.
 
 ## How to Use This Repository:
