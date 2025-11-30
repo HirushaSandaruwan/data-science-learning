@@ -24,6 +24,7 @@ To master Python basics and then transition to more advanced topics like NumPy, 
 ## Files:
 - **python_summary.py**: A summary of Python basics with practical examples.
 - **README.md**: An overview of my Python learning journey and progress.
+- **expense_tracker.py** : my first project I have built using python basics.
 
 ## How to Use This Repository:
 1. Clone the repository to your local machine:
