@@ -1,0 +1,14 @@
+StudentID,Name,Gender,Math,Science,English,Age
+1,Alice,Female,78,85,88,16
+2,Bob,Male,65,70,72,17
+3,Charlie,Male,90,92,89,16
+4,Diana,Female,88,NaN,91,17
+5,Ethan,Male,55,60,58,16
+6,Fiona,Female,92,95,94,18
+7,George,Male,70,68,75,17
+8,Hannah,Female,85,87,NaN,16
+9,Ian,Male,60,65,63,17
+10,Jane,Female,95,98,97,18
+10,Jane,Female,95,98,97,18
+11,Kyle,Male,NaN,72,70,16
+12,Lisa,Female,82,80,85,17

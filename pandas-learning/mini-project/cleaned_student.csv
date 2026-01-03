@@ -1,0 +1,10 @@
+StudentID,Name,Gender,Math,Science,English,Age,Total_score,Grade
+1,Alice,Female,78.0,85.0,88.0,16,251.0,High
+2,Bob,Male,65.0,70.0,72.0,17,207.0,Medium
+3,Charlie,Male,90.0,92.0,89.0,16,271.0,High
+5,Ethan,Male,55.0,60.0,58.0,16,173.0,Medium
+6,Fiona,Female,92.0,95.0,94.0,18,281.0,High
+7,George,Male,70.0,68.0,75.0,17,213.0,Medium
+9,Ian,Male,60.0,65.0,63.0,17,188.0,Medium
+10,Jane,Female,95.0,98.0,97.0,18,290.0,High
+12,Lisa,Female,82.0,80.0,85.0,17,247.0,High
