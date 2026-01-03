@@ -1,0 +1,7 @@
+ProductID,ProductName,Category,Price,Stock,Color
+1,Laptop,Electronics,800,10,Black
+2,Phone,Electronics,600,,Blue
+3,Chair,Furniture,,25,Brown
+4,Table,Furniture,150,,Blue
+5,Headphones,Electronics,120,50,
+6,Sofa,Furniture,900,5,Blue
