@@ -1,36 +1,66 @@
 # My Data Science Learning Journey
 
-Welcome to my Python learning repository! I'm **Hirusha Sandaruwan**, a first-year student at the **University of Sri Jayewardenepura, Sri Lanka**, learning python to pursue a career in data science. This repository contains my Python practice code and projects, where I focus on building a strong foundation in Python programming.
+Welcome! I’m **Hirusha Sandaruwan**, a first-year student at the **University of Sri Jayewardenepura, Sri Lanka**, learning Python to pursue a career in **Data Science**. This repository documents my Python practice, projects, and growth as I build a strong foundation in programming and data analysis.
 
-As I progress, I will be adding more projects related to data analysis, machine learning, and other exciting Python applications!
+---
 
-## Topics Covered So Far:
-- **Variables & Data Types**: Understanding and using different data types in Python.
-- **Loops**: Iterating over data with `for` and `while` loops.
-- **Functions**: Writing reusable code to simplify tasks.
-- **Conditionals**: Making decisions in code using `if-else` statements.
-- **Lists & Tuples**: Managing collections of data.
-- **Error Handling**: Handling exceptions and invalid input gracefully.
-- **Expense Tracker Project** : Applied the python basics I learned.
+## Topics Covered So Far
 
-## Recent Progress:
-- **NumPy Learning Folder**: Contains practice files and exercises to explore NumPy concepts like arrays, indexing, reshaping, mathematics, file handling, and more.
-- **Expense Tracker (NumPy Version)**: Rebuilt the previous Expense Tracker project using NumPy arrays for data storage and calculations, while keeping the same features.
+* **Variables & Data Types:** Understanding and using different Python data types.  
+* **Loops:** Iterating over data with `for` and `while` loops.  
+* **Functions:** Writing reusable code for simplification.  
+* **Conditionals:** Making decisions with `if-else` statements.  
+* **Lists & Tuples:** Managing collections of data.  
+* **Error Handling:** Gracefully handling exceptions and invalid inputs.  
+* **Expense Tracker Project:** Applied Python basics in a practical project.  
 
-## Upcoming Topics:
-- **Pandas**: Data manipulation and analysis.
-- **Machine Learning**: Exploring algorithms and techniques for predictive analytics.
+---
 
-## My Goal:
-To master Python basics, NumPy, and Pandas, then transition to Machine Learning and Data Science projects.
+## Recent Progress
+
+* **NumPy Learning:**  
+  * Practice files and exercises exploring arrays, indexing, reshaping, mathematics, file handling, and more.  
+  * **Expense Tracker (NumPy Version):** Rebuilt the original project using NumPy arrays for storage and calculations while keeping the same functionality.
+
+* **Pandas Learning:**  
+  * Practice files using real CSV datasets.  
+  * Exercises covering DataFrames, filtering, merging, grouping, and statistical analysis.  
+  * Mini project analyzing student scores with aggregation, grouping, and cleaning.  
+  * **Expense Tracker (Pandas Version):** Full-featured tracker using Pandas for more powerful data handling and analysis.  
+
+---
+
+## Upcoming Topics
+
+* **Pandas:** Advanced data manipulation and analysis.  
+* **SQL:** Storing, querying, and analyzing data in relational databases.  
+* **Matplotlib:** Data visualization using plots, charts, and graphs.  
+* **Seaborn:** Statistical data visualization with enhanced styling and themes.  
+* **Machine Learning:** Exploring algorithms and techniques for predictive analytics.
+
+---
+
+## My Goal
+
+To master **Python basics, NumPy, and Pandas**, then transition into **Machine Learning** and **Data Science projects**.
+
+---
 
 ## Files and Folders:
-- **python-basics/**: Python basics projects and exercises.
-  - `expense_tracker.py` : First project built using Python basics.
-  - `python_summary.py` : A summary of Python basics with practical examples.
-- **numpy_learning/**: NumPy practice files and upgraded Expense Tracker.
-  - `expense_tracker_numpy.py` : Expense Tracker upgraded using NumPy arrays.
-  - `dataset.txt` + other NumPy practice files.
+
+- **python-basics/**: Python basics projects and exercises.  
+  - `expense_tracker.py` : First project built using Python basics.  
+  - `python_summary.py` : A summary of Python basics with practical examples.  
+
+- **numpy-learning/**: NumPy practice files and upgraded Expense Tracker.  
+  - `expense_tracker_numpy.py` : Expense Tracker upgraded using NumPy arrays.  
+  - `dataset.txt` + other NumPy practice files.  
+
+- **pandas-learning/**: Pandas practice, exercises, mini-project, and upgraded Expense Tracker.  
+  - **pandas-practice-files/** : Small practice exercises using CSV datasets.  
+  - **pandas-exercises/** : Structured exercises covering Pandas functionality.  
+  - **mini-project/** : Student Data Analysis mini project with aggregation, grouping, and cleaning.  
+  - **pandas-expense-tracker/** : Full-featured Expense Tracker built using Pandas.  
 
 ## How to Use This Repository:
 1. Clone the repository to your local machine:
